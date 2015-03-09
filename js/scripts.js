@@ -1,4 +1,8 @@
 
+$('#sky').jQlouds({
+  src: 'img/new-cloud.png',
+});
+
 
 $('#sky').jQlouds({
   maxWidth: 300, // max image's width
@@ -17,6 +21,3 @@ $('#sky').jQlouds({
 });
 
 
-$('#sky').jQlouds({
-  src: 'path/to/new-cloud.png',
-});
