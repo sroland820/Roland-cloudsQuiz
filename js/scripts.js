@@ -9,3 +9,14 @@ $('#sky').jQlouds({
 $('#sky').jQlouds({
   wind: true
 });
+
+
+$('#sky').jQlouds({
+  minClouds: 10, // minimum amount of clouds
+  maxClouds: 10, // maximum amount of clouds
+});
+
+
+$('#sky').jQlouds({
+  src: 'path/to/new-cloud.png',
+});
