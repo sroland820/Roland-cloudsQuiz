@@ -21,3 +21,10 @@ $('#sky').jQlouds({
 });
 
 
+$('body').jQlouds({
+
+	
+
+
+
+});
